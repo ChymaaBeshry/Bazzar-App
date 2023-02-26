@@ -1,0 +1,69 @@
+h1{
+
+  border: 5px solid #5F0513;
+  border-radius: 50px;
+  color: teal;
+  text-align: center;
+  text-shadow: 2px 2px 5px  #5F0513;
+}
+
+.imgProduct img {
+  width: 300px;
+  margin-top: 40px;
+  border: 5px solid  teal;
+}
+.History  h2{
+  font-size: 40px;
+  margin-top: 40px;
+  text-align: center;
+  color: #5F0513;
+  text-shadow: 2px 2px 5px  teal;
+
+}
+.History  h6{
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 10px;
+  text-align: center;
+  color: teal;
+
+
+}
+.History input{
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 50px;
+  width: 60px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.infoAgePrice h5{
+    margin-top: 10px;
+  text-align: center;
+    color: #5F0513;
+      text-shadow: 2px 2px 5px  teal;
+      margin-left: 50px;
+}
+.quantity{
+    margin-left: 250px;
+}
+p{
+  display: inline-block;
+  margin-left: 20px;
+  color: teal;
+
+}
+input{
+  background-color: #5F0513;
+}
+.History a{
+
+  padding: 10px;
+  margin-top: 50px;
+  border: 2px solid #5F0513;
+  border-radius: 50px;
+  margin-left: 190px;
+  color: teal;
+    text-shadow: 2px 2px 5px  teal;
+}

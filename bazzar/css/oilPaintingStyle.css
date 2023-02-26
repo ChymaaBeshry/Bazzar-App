@@ -1,0 +1,81 @@
+
+.head h1{
+   color:  #5F0513;
+   text-shadow: 2px  5px  teal; }
+
+
+.head h5{
+  font-weight: bold;
+    color:  teal;
+   text-shadow: 2px 5px  #5F0513;
+     }
+
+.product{
+
+  margin-top: 20px;
+  width: 298px;
+  height: 520px;
+  border: 1px solid white;
+  font-family: 'Indie Flower', cursive;
+
+}
+#icon1 , #icon2{
+  margin-top: 10px;
+  color:  teal;
+  font-size: 25px;
+  margin-left: 10px;
+}
+#icon2{
+  margin-left: 200px;
+  font-size: 10px;
+}
+
+.imgproduct img{
+  margin-top: 10px;
+  width: 298px;
+  height: 250px;
+}
+ .product h3{
+   margin-top: 3px;
+   color:   #5F0513;
+   text-align: center;
+     text-shadow: 2px 2px 5px teal;
+
+}
+
+ .product h3{
+   margin-top: 3px;
+   color:#5F0513 ;
+  text-shadow: 2px 2px 5px teal;
+   text-align: center;
+}
+
+.Brief{
+  margin-top: 10px;
+  color: teal;
+  text-shadow: 2px 2px 5px #5F0513;
+}
+
+
+ .product p{
+  color: #5F0513;
+  text-align: center;
+  margin-left: 10px;
+    text-shadow: 2px 2px 5px  teal;
+
+}
+.product h5{
+  font-weight: bold;
+    margin-left: 50px;
+  color: teal;
+  border-radius: 30px;
+  border: 7px solid  #5F0513;
+text-align: center;
+}
+.product a{
+  text-decoration: none;
+}
+.product a:hover{
+  text-decoration:  underline;
+  color: #5F0513;
+}
